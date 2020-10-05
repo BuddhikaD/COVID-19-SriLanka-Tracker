@@ -49,7 +49,7 @@ class App extends React.Component {
                 COVID-19 SriLanka Tracker
               </h1>
               <form class="form-inline my-2 my-lg-0">
-                <a href="https://github.com/Bawanthathilan">
+                <a href="https://github.com/BuddhikaD">
                   <h1>
                     <span class="fa fa-github"></span>
                   </h1>
@@ -129,7 +129,7 @@ class App extends React.Component {
               <br />
               <br />
               <footer>
-                Made with ❤ by Bawantha Thilan | Powered by hpb.health.gov.lk
+                Made with ❤ by Buddhika Dananjaya | Powered by hpb.health.gov.lk
               </footer>
             </div>
 
