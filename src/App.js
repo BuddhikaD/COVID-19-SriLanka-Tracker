@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import ParticlesBg from "particles-bg";
+import MouseParticles from 'react-mouse-particles';
 
 class App extends React.Component {
   constructor() {
@@ -135,6 +136,7 @@ class App extends React.Component {
 
             {}
             <ParticlesBg type="cobweb" bg={true} />
+            <MouseParticles g={1} color="random" cull="col,image-wrapper"/>
           </div>
         )}
       </div>
