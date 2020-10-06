@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/COVID-19-SriLanka-Tracker/static/css/main.04d0ddc7.chunk.css",
-    "main.js": "/COVID-19-SriLanka-Tracker/static/js/main.b687d5dc.chunk.js",
-    "main.js.map": "/COVID-19-SriLanka-Tracker/static/js/main.b687d5dc.chunk.js.map",
+    "main.js": "/COVID-19-SriLanka-Tracker/static/js/main.5bf8c32d.chunk.js",
+    "main.js.map": "/COVID-19-SriLanka-Tracker/static/js/main.5bf8c32d.chunk.js.map",
     "runtime-main.js": "/COVID-19-SriLanka-Tracker/static/js/runtime-main.814b703a.js",
     "runtime-main.js.map": "/COVID-19-SriLanka-Tracker/static/js/runtime-main.814b703a.js.map",
-    "static/js/2.9f418175.chunk.js": "/COVID-19-SriLanka-Tracker/static/js/2.9f418175.chunk.js",
-    "static/js/2.9f418175.chunk.js.map": "/COVID-19-SriLanka-Tracker/static/js/2.9f418175.chunk.js.map",
+    "static/js/2.d066dea5.chunk.js": "/COVID-19-SriLanka-Tracker/static/js/2.d066dea5.chunk.js",
+    "static/js/2.d066dea5.chunk.js.map": "/COVID-19-SriLanka-Tracker/static/js/2.d066dea5.chunk.js.map",
     "index.html": "/COVID-19-SriLanka-Tracker/index.html",
-    "precache-manifest.192fefc7bb5e78e51e4acd0f2773c4de.js": "/COVID-19-SriLanka-Tracker/precache-manifest.192fefc7bb5e78e51e4acd0f2773c4de.js",
+    "precache-manifest.9a1b104223fc8b9b67a7c9c675df26fe.js": "/COVID-19-SriLanka-Tracker/precache-manifest.9a1b104223fc8b9b67a7c9c675df26fe.js",
     "service-worker.js": "/COVID-19-SriLanka-Tracker/service-worker.js",
     "static/css/main.04d0ddc7.chunk.css.map": "/COVID-19-SriLanka-Tracker/static/css/main.04d0ddc7.chunk.css.map",
-    "static/js/2.9f418175.chunk.js.LICENSE.txt": "/COVID-19-SriLanka-Tracker/static/js/2.9f418175.chunk.js.LICENSE.txt"
+    "static/js/2.d066dea5.chunk.js.LICENSE.txt": "/COVID-19-SriLanka-Tracker/static/js/2.d066dea5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.814b703a.js",
-    "static/js/2.9f418175.chunk.js",
+    "static/js/2.d066dea5.chunk.js",
     "static/css/main.04d0ddc7.chunk.css",
-    "static/js/main.b687d5dc.chunk.js"
+    "static/js/main.5bf8c32d.chunk.js"
   ]
 }
