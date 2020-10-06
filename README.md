@@ -1,2 +1,3 @@
 Covid-19 SL Tracker
-![image](https://i.ibb.co/nrm03tD/screenshot-covidsl19-netlify-app-1601926180356.png)
+
+<img src="https://i.ibb.co/L87WjPW/screencapture-buddhikad-github-io-COVID-19-Sri-Lanka-Tracker-1601953000536.png">
