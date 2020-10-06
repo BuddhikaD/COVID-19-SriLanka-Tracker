@@ -1,3 +1,3 @@
 Covid-19 SL Tracker
 
-<img src="https://i.ibb.co/L87WjPW/screencapture-buddhikad-github-io-COVID-19-Sri-Lanka-Tracker-1601953000536.png">
+![image](https://drive.google.com/file/d/1zJPOerry16AxNEP-W0Rk6qOQTLzdHce-/preview" width="640" height="480")
